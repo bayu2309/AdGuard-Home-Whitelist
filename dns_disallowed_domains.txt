@@ -21,7 +21,7 @@ api.spreaker.com
 api.userleap.com
 apis.appnxt.net
 app-measurement.com
-arc.msn.com
+hallobay.my.id
 assets.adobedtm.com
 autopush.prod.mozaws.net
 azwancan.trafficmanager.net
